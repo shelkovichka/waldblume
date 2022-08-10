@@ -7,9 +7,9 @@
   <li>📫 How to reach me: violettinsel@gmail.com</li>
 </ul>
 
-<h3>I'm an inspired beginner javascript developer</h3>
+<h3 border-bottom="1px solid white">I'm an inspired beginner javascript developer</h3>
 
-<p>I've recently completed my courses on frontend development. On courses I've been working with HTML, CSS, JavaScript, Vue.js and Node.js.</p><br><p>At the moment concentrated on gaining experience and continue learning web development. In here to create!
+<p>I've recently completed my courses on frontend development. On courses I've been working with HTML, CSS, JavaScript, Vue.js and Node.js.</p><p>At the moment concentrated on gaining experience and continue learning web development. In here to create!
 
 <!--
 **waldblume/waldblume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
