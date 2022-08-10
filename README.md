@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Vasilisa 🌺</h1> 
 <h3 align="center">Inspired beginner javascript developer</h3>
 
+
 <p>🌱 I’m on my way scrutinizing the world of frontend development</p>
 <p>🔭 I’m looking for new projects to practice and get real experience</p>
 <p>📫 How to reach me: violettinsel@gmail.com</p>
