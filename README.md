@@ -7,7 +7,7 @@
   <li>📫 How to reach me: violettinsel@gmail.com</li>
 </ul>
 
-<h2>I'm inspired beginner javascript developer</h2>
+<h3>I'm an inspired beginner javascript developer</h3>
 
 <!--
 **waldblume/waldblume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
