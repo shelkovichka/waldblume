@@ -7,9 +7,10 @@
   <li>📫 How to reach me: violettinsel@gmail.com</li>
 </ul>
 
-<h3 border-bottom="1px solid white">I'm an inspired beginner javascript developer</h3>
+<h3>I'm an inspired beginner javascript developer</h3>
 
-<p>I've recently completed my courses on frontend development. On courses I've been working with HTML, CSS, JavaScript, Vue.js and Node.js.</p><p>At the moment concentrated on gaining experience and continue learning web development. In here to create!
+<p>I've benn started thinking about programming during my linguistic studies at university. So after graduating I've desided to learn a completly new for me and intriguing programming language - javascript</p>
+<p>I've recently completed my courses on frontend development. There I've been working with HTML, CSS, JavaScript, Vue.js and Node.js. At the moment I'm concentrated on gaining experience and continue learning web development. I'm here to create!
 
 <!--
 **waldblume/waldblume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
