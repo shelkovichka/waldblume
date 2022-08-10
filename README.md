@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 🌺</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=36&pause=1000&color=1696BB&background=2586FF00&width=435&lines=It's+Vasilisa" alt="Typing SVG" /></a>
+<h1>Hi there! 🦕</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=36&pause=1000&color=1696BB&background=2586FF00&width=435&lines=It's+Lisa" alt="Typing SVG" /></a>
 <h3 align="center">Inspired beginner javascript developer</h3>
 
 <br>
