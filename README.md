@@ -12,6 +12,8 @@
 <p>I've been started thinking about programming during my linguistic studies at university. So after graduating I've desided to learn a completly new for me and intriguing programming language - javascript</p>
 <p>I've recently completed my courses on frontend development. There I've been working with HTML, CSS, JavaScript, Vue.js and Node.js. At the moment I'm concentrated on gaining experience and continue learning web development. I'm here to create!
 
+<h3>My stack of cognitions and technologies:</h3>  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <!--
 **waldblume/waldblume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
