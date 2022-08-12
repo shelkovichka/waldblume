@@ -23,6 +23,9 @@
 </div>
 
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="SVG">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waldblume&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **waldblume/waldblume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
