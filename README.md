@@ -7,7 +7,7 @@
   <li>📫 How to reach me: violettinsel@gmail.com</li>
 </ul>
 
-<h2>I'm an inspired beginner JavaScript developer</h2>
+<h2>I'm an inspired JavaScript developer</h2>
 
 <p>I've been started thinking about programming during my linguistic studies at university. So after graduating I've desided to learn a completly new for me and intriguing programming language - JavaScript</p>
 <p>I've recently completed my courses on frontend development. There I've been working with HTML, CSS, JavaScript, Vue.js and Node.js. At the moment I'm concentrated on gaining experience and continue learning web development. I'm here to create!
